@@ -7,7 +7,6 @@
 
 - 📄 <a href="https://drive.google.com/file/d/10BSsyhUemI3e11wgsncwjNwwmYczv6kF/view">Know about my experiences</a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
